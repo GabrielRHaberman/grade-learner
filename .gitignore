@@ -1,3 +1,3 @@
-Ignores all files starting with the letter z.
-Ignores a file called .env.
-Ignores a top-level directory named artifacts.
+# ignores all files starting with the letter z.
+# ignores a file called .env.
+# ignores a top-level directory named artifacts.
